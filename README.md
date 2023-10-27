@@ -7,7 +7,7 @@ For more details see https://packaging.python.org/en/latest/tutorials/packaging-
 ## Build the Package
 Requirements to create a package and upload it.
 ```shell
-pip install - -upgrade pip  setuptools wheel twine
+pip install --upgrade pip setuptools wheel twine
 ```
 Its good practice to test everything. 
 ```shell
